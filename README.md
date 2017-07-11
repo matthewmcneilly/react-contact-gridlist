@@ -1,2 +1,1 @@
-# react-contact-gridlist
-A React web application showing a contact list in grid form. 
+![alt text](http://imgur.com/a/nknoa "Contact Gridlist")
