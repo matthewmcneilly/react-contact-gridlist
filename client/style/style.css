@@ -1,0 +1,12 @@
+.employee-list {
+  /* displays everything on one line */
+  display: flex;
+  /* shifts content down the page rather than overruinning on the righthand side */
+  flex-wrap: wrap;
+  /* equally distributes space avaiable on each row */
+  justify-content: space-around;
+}
+
+.thumbnail {
+  width: 300px;
+}
